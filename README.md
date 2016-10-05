@@ -82,6 +82,8 @@ Il est possible de spécifier différents paramètres (optionnels) :
 
 ## La documentation complète
 
+Ce guide vous a permis d'envoyer votre premier SMS avec le wrapper Python de l'API REST. Vous pouvez maintenant poursuivre l'intégration de ce service dans votre application. Notre documentation complète vous permettra de découvrir d'autres options pour faciliter l'intégration de services tels que : La consultation du crédit, l'envoi d'un SMS à de multiples destinataires, la qualification d'un numéro (Lookup HLR), téléchargement des récapitulatifs de campagne etc...
+
 Documentation complète : https://www.isendpro.com/api-sms/doc-api-sms-restjson-isendpro.pdf
 
 ## Support technique
